@@ -146,13 +146,13 @@ ul {
 }
 
 .advantage-list-item:nth-last-child(4n+5) {
-    background-image: url('./../images/welcome_background.png');
+    background-image: url('../images/advantage_image_2.png');
     background-repeat: no-repeat;
     flex-basis: 800px;
 }
 
 .advantage-list-item:nth-child(2) {
-    background-image: url("./../images/advantage_image_1.png");
+    background-image: url("../images/advantage_image_1.png");
 }
 
 .advantage-list-item:nth-child(3),
