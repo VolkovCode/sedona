@@ -146,7 +146,7 @@ ul {
 }
 
 .advantage-list-item:nth-last-child(4n+5) {
-    background-image: url("./../images/advantage_image_2.png");
+    background-image: url('./../images/advantage_image_2.png');
     background-repeat: no-repeat;
     flex-basis: 800px;
 }
