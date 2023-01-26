@@ -79,7 +79,7 @@ ul {
     margin: 0 auto;
     width: 1200px;
     height: 432.65px;
-    background-image: url('images/welcome_background.png');
+    background-image: url('../images/welcome_background.png');
     background-repeat: no-repeat;
     padding-top: 76.35px;
 }
